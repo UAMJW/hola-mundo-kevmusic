@@ -1,4 +1,4 @@
 import Cocoa
 
 // Prints out "Hello World"
-"Hello, playground"
+"Hello world! Welcome to Swift Programming"
